@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZDEMO_ABAPGIT.
 
-write: 'Hello, this is a demo WITH CHANGES'.
+write: 'Hello, this is a demo'.
