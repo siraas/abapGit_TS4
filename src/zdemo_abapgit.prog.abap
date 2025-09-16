@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZDEMO_ABAPGIT.
 
-write: 'Hello, this is a demo'.
+write: 'Hello, this is another demo. September 2025'.
