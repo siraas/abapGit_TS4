@@ -3,5 +3,10 @@
     "mandt": "100",
     "from_date": "2025-09-22",
     "text": "ABC"
+  },
+  {
+    "mandt": "100",
+    "from_date": "2025-09-23",
+    "text": "DEF"
   }
 ]
